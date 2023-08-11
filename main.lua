@@ -1,4 +1,4 @@
-local import = require("packagemanager")
+ local import = require("packagemanager")
 
 -- Test the import function
 local fmt = import("fmt")
